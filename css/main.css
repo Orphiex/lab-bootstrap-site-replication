@@ -1,0 +1,48 @@
+.container-fluid {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.unicorn {
+  background-image: url('http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2014/08/unicorn.png');
+  background-position: center;
+  background-size: cover;
+  height: 410px;
+  margin-top: 10px;
+}
+
+.incognito {
+  background-image: url('http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2015/01/Incognito.jpg');
+  background-size: cover;
+  height: 200px;
+  margin-top: 10px;
+}
+
+.tech-trends {
+  background-image: url('http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2016/01/shutterstock_306793247.jpg');
+  background-size: cover;
+  height: 200px;
+  margin-top: 10px;
+}
+
+.cardboard {
+  background-image: url('http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2014/12/1210_googlecardboard.jpg');
+  background-size: cover;
+  height: 200px;
+  margin-top: 10px;
+}
+
+h2 {
+  position: absolute;
+  margin-top: 300px;
+}
+
+h3 {
+  position: absolute;
+  margin-top: 120px;
+}
+
+h4 {
+  position: absolute;
+  margin-top: 120px;
+}
