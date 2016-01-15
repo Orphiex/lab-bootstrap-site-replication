@@ -1,6 +1,19 @@
-.container-fluid {
-  margin-top: 20px;
-  margin-bottom: 20px;
+.dropdown {
+  background-color: #ff4020;
+  padding-right: 10px;
+  font-family: 'Shentox Medium',sans-serif;
+}
+
+.tnwNav-logo {
+  background-image: url('http://cdn0.tnwcdn.com/wp-content/themes/icetea/lemonsoda/img/tnw.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: block;
+  float: left;
+  height: 18px;
+  width: 58px;
+  margin-left: 10px;
+  margin-bottom: 10px;
 }
 
 .unicorn {
